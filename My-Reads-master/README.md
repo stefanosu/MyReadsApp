@@ -30,5 +30,5 @@ To simplify the development process, there is a backend server provided for you 
 * maxResults: `<Integer>` Due to the nature of the backend server, search results are capped at 20, even if this is set higher.
 * Returns a Promise which resolves to a JSON object containing a collection of book objects. These books do not know which shelf they are on. They are raw results only. You'll need to make sure that books have the correct state while on the search page.
 
-# **Resources used was Forrest Walker My Reads Walkthrough**  
+ Resources used was Forrest Walker My Reads Walkthrough
 
