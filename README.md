@@ -8,9 +8,9 @@ A bookshelf app that allows the user to select and categorize books as you have 
 ## How to Run:
 
 1. You can Download (https://github.com/stefanosu/My-Reads/archive/master.zip) or Clone (https://github.com/stefanosu/My-Reads.git) the Repository.
-2. Run `npm install` to install the project dependencies.
-3. Run the app using `npm start`.
-4. App can be seen at: `localhost:3000`. 
+2. Run `npm install` to install the project dependencies
+3. Run the app using `npm start`
+4. App can be seen at: `localhost:3000`
 
 ## Backend Server
 
